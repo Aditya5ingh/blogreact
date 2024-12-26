@@ -1,0 +1,24 @@
+#banner_section {
+  width: 100%;
+  height: 70vh;
+}
+.banner_container {
+  width: 100%;
+  height: 100%;
+  padding: 5%;
+  background: linear-gradient(to bottom, #ccc, #885454 50%);
+}
+.content_area {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.content_area h1 {
+  text-transform: uppercase;
+  font-size: 3rem;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: 800;
+}

@@ -1,0 +1,16 @@
+.container {
+  width: 100%;
+  padding: 5%;
+}
+.content-section {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.content-section img {
+  width: 50%;
+}
+.details {
+  width: 50%;
+}
